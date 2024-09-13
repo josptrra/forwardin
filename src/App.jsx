@@ -1,9 +1,10 @@
 import "./index.css";
+import Home from "./pages/(dashboard)/Home";
 
 function App() {
   return (
     <>
-      <h1 className="text-2xl bg-purple-300">Hello</h1>
+      <Home />
     </>
   );
 }
