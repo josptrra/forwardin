@@ -11,10 +11,10 @@ export default function Home() {
         <img src={Preview} className="lg:hidden" />
         <div className="w-full px-12 xl:w-[65%] xl:mx-auto xl:flex xl:gap-10 xl:justify-around xl:mt-28">
           <div className="max-w-[25rem]">
-            <h1 className="font-bold text-[24px] xl:text-[32px] ">
+            <h1 className="font-bold text-[24px] leading-7 xl:text-[32px] xl:leading-9">
               Elevate Your Messaging Efficiency with Our Innovative Admin Tools
             </h1>
-            <p className="my-8 font-medium leading-5 xl:my-6">
+            <p className="my-8 font-medium leading-5 xl:my-6 text-sm xl:text-base text-justify">
               Selamat datang di Fowardit! Pengelolaan pesan Anda menjadi lebih
               mudah dengan Admin Tools kami. Penerusan pesan jadi lebih lancar
               melalui fitur otomatis, sehingga Anda dapat lebih fokus pada
