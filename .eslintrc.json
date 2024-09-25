@@ -22,7 +22,7 @@
     "no-unused-vars": ["error", { "argsIgnorePattern": "req|res|next|val" }],
     "plugin:react/jsx-runtime": "off",
     "react/jsx-filename-extension": [1, { "ignoreFilesWithoutCode": true }],
-    "react/prop-types": 0,
+    "react/prop-types": 1,
     "import/extensions": "never"
   }
 }
